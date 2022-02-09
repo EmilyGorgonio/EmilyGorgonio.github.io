@@ -5,7 +5,7 @@ description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
 logo:               'https://m.media-amazon.com/images/I/31UEAVC6unL._AC_SY450_.jpg'
-background:         'https://i.pinimg.com/originals/90/ed/a9/90eda98af6dc527edf49aabc88278896.gif'
+background:         'https://i.pinimg.com/originals/1b/1b/f1/1b1bf1b4ab332b517a3d5cff31d0a937.gif'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://www.emilygorgonio.net.gorgonio-emgr27.studio/
