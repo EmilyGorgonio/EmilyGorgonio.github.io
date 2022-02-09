@@ -1,10 +1,10 @@
 # Site
 title:              Moon
-bio:                'Minimal, one column jekyll theme.'
+bio:                'Un poco de todo.'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'https://m.media-amazon.com/images/I/31UEAVC6unL._AC_SY450_.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
